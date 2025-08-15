@@ -7,7 +7,6 @@ Business Product-focused, client-behaviour analytics for fintech and banking:
 - 🏦 Credit Risk Assessment
 - 🧑‍💼 HR Attrition Analytics
 - 📈 Sales Forecasting & Scenario Simulator
-- 🎯 Next-Best-Action (NBA) Recommender
 - 🧭 Funnel Drop-Off & Journey Analysis
 - 📣 Campaign Targeting & Churn Prediction
 
